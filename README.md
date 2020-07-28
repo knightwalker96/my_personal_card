@@ -5,7 +5,7 @@ In a Flutter project there are mainly 2 types of widgets-
 If a widget changes or does some activity on interaction with the user then it is a stateful widget
 otherwise it is a stateless widget.
 
-# another_mi_app
+# my_personal_card
 
 This is an app created with the help of stateless widget,
 All it does is display the information about a user such as- his email, phone number, name, picture,etc.
