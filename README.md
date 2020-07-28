@@ -1,16 +1,15 @@
+In a Flutter project there are mainly 2 types of widgets- 
+1. Stateless Widgets     and     2. Stateful Widgets
+
+
+If a widget changes or does some activity on interaction with the user then it is a stateful widget
+otherwise it is a stateless widget.
+
 # another_mi_app
 
-A new Flutter application.
+This is an app created with the help of stateless widget,
+All it does is display the information about a user such as- his email, phone number, name, picture,etc.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+I have also used 2 custom fonts which i have imported them from https://fonts.google.com/
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
